@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rumi! <br/><a href="https://github.com/blvckcvbe?tab=repositories">Programmer</a>, <a href="https://rumi-six.vercel.app/#home">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Rumi <br/><a href="https://github.com/blvckcvbe?tab=repositories">Programmer</a>, <a href="https://rumi-six.vercel.app/#home">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
