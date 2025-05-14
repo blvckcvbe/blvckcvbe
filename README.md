@@ -32,8 +32,8 @@
 
 [<img align="left" alt="blvckcvbe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="blvckcvbe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="blvckcvbe | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[twitter]: https://twitter.com/joshmadakor
+
+[twitter]: https://twitter.com/rumiidev
 [youtube]: https://www.youtube.com/@vforvim
-[facebook]: https://www.facebook.com/blvckcvbe/
+
