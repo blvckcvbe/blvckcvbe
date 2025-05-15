@@ -4,13 +4,13 @@
 
 - <b>Password Strength Checker</b>
   - [A tool that evaluates password strength using entropy, regex, and best practices.](https://github.com/blvckcvbe/password-strength-checker)
-- <b>CVE Tracker CLI *Work in Progress*</b>
+- <b>CVE Tracker CLI 🚧*Work in Progress*🚧</b>
   - [Command-line app that fetches and displays the latest CVEs using the NVD API.](https://github.com/blvckcvbe/cve-tracker-cli)
-- <b>Port Scanner *Work in Progress*</b>
+- <b>Port Scanner 🚧*Work in Progress*🚧</b>
   - [Multithreaded TCP port scanner written in Python to discover open ports.](https://github.com/blvckcvbe/simple-port-scanner)
-- <b>Phishing URL Detector *Work in Progress*</b>
+- <b>Phishing URL Detector 🚧*Work in Progress*🚧</b>
   - [Basic phishing detector that uses rule-based heuristics to classify suspicious URLs.](https://github.com/blvckcvbe/phishing-url-detector)
-- <b>Linux Hardening Script *Work in Progress*</b>
+- <b>Linux Hardening Script 🚧*Work in Progress*🚧</b>
   - [A bash script that applies common hardening techniques for securing a Linux system.](https://github.com/blvckcvbe/linux-hardening-script)
  
 <h2>🎓 Certfications</h2>
