@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Password Strength Checker (Python)🐍</b>
-  - [A tool that evaluates password strength using entropy, regex, and best practices.](https://github.com/blvckcvbe/password-strength-checker)
+  - [A tool that evaluates password strength using entropy calculation.](https://github.com/blvckcvbe/password-strength-checker)
 - <b>Password Strength Checker (Rust)🦀</b>
   - [A tool that evaluates password strength using zxcvbn.](https://github.com/blvckcvbe/password-strength-checker-rs)
 - <b>CVE Tracker CLI 🚧*Work in Progress*🚧</b>
