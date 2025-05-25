@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Password Strength Checker</b>
+- <b>Password Strength Checker (Python)🐍</b>
   - [A tool that evaluates password strength using entropy, regex, and best practices.](https://github.com/blvckcvbe/password-strength-checker)
+- <b>Password Strength Checker (Rust)🦀</b>
+  - [A tool that evaluates password strength using zxcvbn.](https://github.com/blvckcvbe/password-strength-checker-rs)
 - <b>CVE Tracker CLI 🚧*Work in Progress*🚧</b>
   - [Command-line app that fetches and displays the latest CVEs using the NVD API.](https://github.com/blvckcvbe/cve-tracker-cli)
 - <b>Port Scanner 🚧*Work in Progress*🚧</b>
