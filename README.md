@@ -5,8 +5,6 @@
 - <b>Password Strength Checker</b>
   - [🐍: A tool that evaluates password strength using entropy calculation.](https://github.com/blvckcvbe/password-strength-checker)
   - [🦀: A tool that evaluates password strength using zxcvbn.](https://github.com/blvckcvbe/password-strength-checker-rs)
-- <b>CVE Tracker CLI 🚧*Work in Progress*🚧</b>
-  - [Command-line app that fetches and displays the latest CVEs using the NVD API.](https://github.com/blvckcvbe/cve-tracker-cli)
 - <b>Port Scanner 🚧*Work in Progress*🚧</b>
   - [Multithreaded TCP port scanner written in Python to discover open ports.](https://github.com/blvckcvbe/simple-port-scanner)
 - <b>Phishing URL Detector 🚧*Work in Progress*🚧</b>
