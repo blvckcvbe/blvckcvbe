@@ -7,9 +7,7 @@
   - [🦀: A tool that evaluates password strength using zxcvbn.](https://github.com/blvckcvbe/password-strength-checker-rs)
 - <b>Port Scanner 🚧*Work in Progress*🚧</b>
   - [Multithreaded TCP port scanner written in Python to discover open ports.](https://github.com/blvckcvbe/simple-port-scanner)
-- <b>Phishing URL Detector 🚧*Work in Progress*🚧</b>
-  - [Basic phishing detector that uses rule-based heuristics to classify suspicious URLs.](https://github.com/blvckcvbe/phishing-url-detector)
-- <b>Linux Hardening Script 🚧*Work in Progress*🚧</b>
+- <b>Arch Linux Hardening Script 🚧*Work in Progress*🚧</b>
   - [A bash script that applies common hardening techniques for securing a Linux system.](https://github.com/blvckcvbe/linux-hardening-script)
  
 <h2>🎓 Certfications</h2>
@@ -29,9 +27,9 @@
 -->
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="blvckcvbe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="blvckcvbe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="blvckcvbe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="vforvim | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="rumiidev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rumii.dev | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
 [twitter]: https://twitter.com/rumiidev
