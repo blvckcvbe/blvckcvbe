@@ -7,8 +7,6 @@
   - [🦀: A tool that evaluates password strength using zxcvbn.](https://github.com/blvckcvbe/password-strength-checker-rs)
 - <b>Port Scanner 🚧*Work in Progress*🚧</b>
   - [Multithreaded TCP port scanner written in Python to discover open ports.](https://github.com/blvckcvbe/simple-port-scanner)
-- <b>Arch Linux Hardening Script 🚧*Work in Progress*🚧</b>
-  - [A bash script that applies common hardening techniques for securing a Linux system.](https://github.com/blvckcvbe/linux-hardening-script)
  
 <h2>🎓 Certfications</h2>
 
